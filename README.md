@@ -10,6 +10,7 @@ open http://localhost:3000
 ```
 
 To build locally:
+hihi
 
 ```
 npm install
