@@ -1,4 +1,4 @@
-feature1 - pt3
+feature1 - pt1
 
 To develop locally:
 
