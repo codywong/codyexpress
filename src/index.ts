@@ -3,7 +3,7 @@ import express from 'express'
 const app = express()
 
 const welcomeStrings = [
-  "Hello Express! 123",
+  "Hello Express! 1234",
   "To learn more about Express on Vercel, visit https://vercel.com/docs/frameworks/backend/express",
 ]
 
