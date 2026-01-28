@@ -1,4 +1,4 @@
-on-demand-off
+per-branch
 To develop locally:
 
 ```
