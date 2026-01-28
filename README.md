@@ -1,4 +1,4 @@
-per-branch
+full-concurrency
 To develop locally:
 
 ```
