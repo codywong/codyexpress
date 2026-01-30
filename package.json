@@ -10,6 +10,6 @@
     "typescript": "5.8.3"
   },
     "scripts": {
-    "build": "sleep 1000"
+    "build": "sleep 1001"
   }
 }
