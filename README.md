@@ -1,4 +1,4 @@
-full-concurrency
+
 To develop locally:
 
 ```
